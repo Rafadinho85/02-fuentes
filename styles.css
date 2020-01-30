@@ -3,10 +3,12 @@
     src: url(fonts/Uncial_Antiqua/UncialAntiqua-Regular.ttf);
 }
 
-}
+
 h1{
     font-family: Arial, Helvetica, sans-serif;/*agregar fuentes*/
     font-style: italic;
+    color: mediumpurple;
+
 }
 h3{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -19,4 +21,12 @@ p{
     font-size: 30px;
     font-style: oblique;
     font-weight: lighter;
+
+    /*Colores*/
+    /*Colores del sistema*/
+    color: LawnGreen;
+    /*Colores del RGB*/
+    color: #800000;
+    /*Colores del RGBA*/
+    color: rgba(80, 152, 255, 0.6);
 }
