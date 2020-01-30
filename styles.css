@@ -1,0 +1,16 @@
+h1{
+    font-family: Arial, Helvetica, sans-serif;/*agregar fuentes*/
+    font-style: italic;
+}
+h3{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;/*tamaño de la fuente*/
+    font-style: normal;
+    font-weight: bolder;/*lo utilizamos normalmente para negrita*/
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    font-style: oblique;
+    font-weight: lighter;
+}
